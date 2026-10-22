@@ -1,0 +1,6 @@
+9/10 grile de pe drive
+Problema1: ID3 ca pe drive
+Problema2: Bayes ca problemele de pe drive(o intrebare era cu numarul de probabilitati necesare stiind ca sunt 3 variabile booleene aleatoare,
+					   o intrebare avea 3 subpuncte de demonstrat 3 independente, o intrebare te punea sa scrii formula probabilitatii
+					   totale pentru o distributie data, ultima intrebare era o probabilitate lunga ca pe drive in care ti se dau mai 					   multe probabilitati conditionate)
+Problema3: retea care detecteaza doua tipuri de imagini( fix ca pe drive)
